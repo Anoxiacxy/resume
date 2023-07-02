@@ -1,4 +1,4 @@
-baseURL: "/resume"
+baseURL: "/resume/"
 languageCode: "en-us"
 title: "Resume | Xueyang Chen"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
