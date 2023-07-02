@@ -1,4 +1,4 @@
 baseURL = '/resume/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Resume | Xueyang Chen'
 theme = 'resume-a4'

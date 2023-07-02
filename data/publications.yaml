@@ -1,12 +1,13 @@
 - authors:
-    - last_name: Dantzing
-      first_name: George
-    - last_name: Sunstrider
-      middle_name: "Felo'melorn"
-      first_name: Kael'thas
-  date: "2006"
-  title: "Additive Outlier Detection Via Extreme-Value Theory"
-  journal: Journal of Time Series Analysis
-  vol: 27
-  issue: 5
-  page: "29-34"
+    - last_name: Xueyang
+      first_name: Chen
+    - last_name: Yifan
+      first_name: Ren
+    - last_name: Yaoxu
+      first_name: Song
+  date: "2022"
+  title: "Single image 3D scene reconstruction based on ShapeNet models"
+  journal: "Fourteenth International Conference on Digital Image Processing (ICDIP 2022)"
+  vol: 12342
+  page: "323-328"
+  doi: "10.1117/12.2645274"
