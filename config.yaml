@@ -1,6 +1,6 @@
-baseURL: "/"
+baseURL: "/resume"
 languageCode: "en-us"
-title: "Resume | MERT BAKIR"
+title: "Resume | Xueyang Chen"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
